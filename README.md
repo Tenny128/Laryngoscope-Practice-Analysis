@@ -9,7 +9,7 @@ I saved the data as a tibble called 't_laryngoscope'.
 The data columns are all presented as numerical data. In order to be able to explore the data using charts, I converted some of the columns to categorical data.
 Using scatter plots and bar charts I explored the data for significant insights.
 ## Data and Files
-Click <a href="https://github.com/Tenny128/Laryngoscope-Practice-Analysis/commit/1e2921f78efbfe8bab69acd700181420e2ca264e">Zip File</a> or <a href="https://github.com/Tenny128/Laryngoscope-Practice-Analysis/commit/32be469c352dbb78f4bab5601b0dc35b22b4a411">PD File</a> to access by the analysis.
+Click <a href="https://github.com/Tenny128/Laryngoscope-Practice-Analysis/commit/32be469c352dbb78f4bab5601b0dc35b22b4a411">PDF File</a> to access the analysis as a PDF document.
 ## Insights
 Both the Pentax AWS Video Laryngoscope and the Macintosh Laryngoscope are very effective in use during inturbation.
 Easier intubations are more likely to take less time and require only one attempt.
